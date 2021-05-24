@@ -1,0 +1,586 @@
+{
+    "i386": {
+        "DeviceName": "iOS Simulator 32-bit",
+        "SupportLidar": false
+    },
+    "x86_64": {
+        "DeviceName": "iOS Simulator 64-bit",
+        "SupportLidar": false
+    },
+    "arm64": {
+        "DeviceName": "iPhone Simulator ARM",
+        "SupportLidar": false
+    },
+    "iPhone1,1": {
+        "DeviceName": "iPhone 1st Gen",
+        "SupportLidar": false
+    },
+    "iPhone1,2": {
+        "DeviceName": "iPhone 3G 2nd Gen",
+        "SupportLidar": false
+    },
+    "iPhone2,1": {
+        "DeviceName": "iPhone 3GS 3rd Gen",
+        "SupportLidar": false
+    },
+    "iPhone3,1": {
+        "DeviceName": "iPhone 4",
+        "SupportLidar": false
+    },
+    "iPhone3,2": {
+        "DeviceName": "iPhone 4 (GSM) Rev A",
+        "SupportLidar": false
+    },
+    "iPhone3,3": {
+        "DeviceName": "iPhone 4 (CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone4,1": {
+        "DeviceName": "iPhone 4s",
+        "SupportLidar": false
+    },
+    "iPhone5,1": {
+        "DeviceName": "iPhone 5 (GSM)",
+        "SupportLidar": false
+    },
+    "iPhone5,2": {
+        "DeviceName": "iPhone 5 (CDMA+LTE)",
+        "SupportLidar": false
+    },
+    "iPhone5,3": {
+        "DeviceName": "iPhone 5c (GSM)",
+        "SupportLidar": false
+    },
+    "iPhone5,4": {
+        "DeviceName": "iPhone 5c (Global)",
+        "SupportLidar": false
+    },
+    "iPhone6,1": {
+        "DeviceName": "iPhone 5s (GSM)",
+        "SupportLidar": false
+    },
+    "iPhone6,2": {
+        "DeviceName": "iPhone 5s (Global)",
+        "SupportLidar": false
+    },
+    "iPhone7,1": {
+        "DeviceName": "iPhone 6 Plus",
+        "SupportLidar": false
+    },
+    "iPhone7,2": {
+        "DeviceName": "iPhone 6",
+        "SupportLidar": false
+    },
+    "iPhone8,1": {
+        "DeviceName": "iPhone 6s",
+        "SupportLidar": false
+    },
+    "iPhone8,2": {
+        "DeviceName": "iPhone 6s Plus",
+        "SupportLidar": false
+    },
+    "iPhone8,4": {
+        "DeviceName": "iPhone SE",
+        "SupportLidar": false
+    },
+    "iPhone9,1": {
+        "DeviceName": "iPhone 7",
+        "SupportLidar": false
+    },
+    "iPhone9,2": {
+        "DeviceName": "iPhone 7 Plus",
+        "SupportLidar": false
+    },
+    "iPhone9,3": {
+        "DeviceName": "iPhone 7 (no CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone9,4": {
+        "DeviceName": "iPhone 7 Plus (no CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone10,1": {
+        "DeviceName": "iPhone 8",
+        "SupportLidar": false
+    },
+    "iPhone10,2": {
+        "DeviceName": "iPhone 8 Plus",
+        "SupportLidar": false
+    },
+    "iPhone10,3": {
+        "DeviceName": "iPhone X",
+        "SupportLidar": false
+    },
+    "iPhone10,4": {
+        "DeviceName": "iPhone 8 (no CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone10,5": {
+        "DeviceName": "iPhone 8 Plus (no CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone10,6": {
+        "DeviceName": "iPhone X (no CDMA)",
+        "SupportLidar": false
+    },
+    "iPhone11,2": {
+        "DeviceName": "iPhone XS",
+        "SupportLidar": false
+    },
+    "iPhone11,4": {
+        "DeviceName": "iPhone XS Max (China)",
+        "SupportLidar": false
+    },
+    "iPhone11,6": {
+        "DeviceName": "iPhone XS Max",
+        "SupportLidar": false
+    },
+    "iPhone11,8": {
+        "DeviceName": "iPhone XR",
+        "SupportLidar": false
+    },
+    "iPhone12,1": {
+        "DeviceName": "iPhone 11",
+        "SupportLidar": false
+    },
+    "iPhone12,3": {
+        "DeviceName": "iPhone 11 Pro",
+        "SupportLidar": false
+    },
+    "iPhone12,5": {
+        "DeviceName": "iPhone 11 Pro Max",
+        "SupportLidar": false
+    },
+    "iPhone12,8": {
+        "DeviceName": "iPhone SE 2nd Gen",
+        "SupportLidar": false
+    },
+    "iPhone13,1": {
+        "DeviceName": "iPhone 12 mini",
+        "SupportLidar": false
+    },
+    "iPhone13,2": {
+        "DeviceName": "iPhone 12",
+        "SupportLidar": false
+    },
+    "iPhone13,3": {
+        "DeviceName": "iPhone 12 Pro",
+        "SupportLidar": true
+    },
+    "iPhone13,4": {
+        "DeviceName": "iPhone 12 Pro Max",
+        "SupportLidar": true
+    },
+    "iPod1,1": {
+        "DeviceName": "iPod 1st Gen",
+        "SupportLidar": false
+    },
+    "iPod2,1": {
+        "DeviceName": "iPod 2nd Gen",
+        "SupportLidar": false
+    },
+    "iPod3,1": {
+        "DeviceName": "iPod 3rd Gen",
+        "SupportLidar": false
+    },
+    "iPod4,1": {
+        "DeviceName": "iPod 4th Gen",
+        "SupportLidar": false
+    },
+    "iPod5,1": {
+        "DeviceName": "iPod 5th Gen",
+        "SupportLidar": false
+    },
+    "iPod7,1": {
+        "DeviceName": "iPod 6th Gen",
+        "SupportLidar": false
+    },
+    "iPod9,1": {
+        "DeviceName": "iPod 7th Gen",
+        "SupportLidar": false
+    },
+    "iPad1,1": {
+        "DeviceName": "iPad 1st Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad1,2": {
+        "DeviceName": "iPad 1st Gen (3G)",
+        "SupportLidar": false
+    },
+    "iPad2,1": {
+        "DeviceName": "iPad 2nd Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad2,2": {
+        "DeviceName": "iPad 2nd Gen (GSM)",
+        "SupportLidar": false
+    },
+    "iPad2,3": {
+        "DeviceName": "iPad 2nd Gen (CDMA)",
+        "SupportLidar": false
+    },
+    "iPad2,4": {
+        "DeviceName": "iPad 2nd Gen New Revision",
+        "SupportLidar": false
+    },
+    "iPad2,5": {
+        "DeviceName": "iPad mini 1st Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad2,6": {
+        "DeviceName": "iPad mini 1st Gen (GSM+LTE)",
+        "SupportLidar": false
+    },
+    "iPad2,7": {
+        "DeviceName": "iPad mini 1st Gen (CDMA+LTE)",
+        "SupportLidar": false
+    },
+    "iPad3,1": {
+        "DeviceName": "iPad 3rd Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad3,2": {
+        "DeviceName": "iPad 3rd Gen (CDMA)",
+        "SupportLidar": false
+    },
+    "iPad3,3": {
+        "DeviceName": "iPad 3rd Gen (GSM)",
+        "SupportLidar": false
+    },
+    "iPad3,4": {
+        "DeviceName": "iPad 4th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad3,5": {
+        "DeviceName": "iPad 4th Gen (GSM+LTE)",
+        "SupportLidar": false
+    },
+    "iPad3,6": {
+        "DeviceName": "iPad 4th Gen (CDMA+LTE)",
+        "SupportLidar": false
+    },
+    "iPad4,1": {
+        "DeviceName": "iPad Air 1st Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad4,2": {
+        "DeviceName": "iPad Air 1st Gen (GSM+CDMA)",
+        "SupportLidar": false
+    },
+    "iPad4,3": {
+        "DeviceName": "iPad Air 1st Gen (China)",
+        "SupportLidar": false
+    },
+    "iPad4,4": {
+        "DeviceName": "iPad mini 2nd Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad4,5": {
+        "DeviceName": "iPad mini 2nd Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad4,6": {
+        "DeviceName": "iPad mini 2nd Gen (China)",
+        "SupportLidar": false
+    },
+    "iPad4,7": {
+        "DeviceName": "iPad mini 3rd Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad4,8": {
+        "DeviceName": "iPad mini 3rd Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad4,9": {
+        "DeviceName": "iPad mini 3rd Gen (China)",
+        "SupportLidar": false
+    },
+    "iPad5,1": {
+        "DeviceName": "iPad mini 4th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad5,2": {
+        "DeviceName": "iPad mini 4th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad5,3": {
+        "DeviceName": "iPad Air 2 (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad5,4": {
+        "DeviceName": "iPad Air 2 (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad6,3": {
+        "DeviceName": "iPad Pro 1st Gen (9.7 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad6,4": {
+        "DeviceName": "iPad Pro 1st Gen (9.7 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad6,7": {
+        "DeviceName": "iPad Pro 1st Gen (12.9 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad6,8": {
+        "DeviceName": "iPad Pro 1st Gen (12.9 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad6,11": {
+        "DeviceName": "iPad 5th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad6,12": {
+        "DeviceName": "iPad 5th Gen (WiFi+Cellular)",
+        "SupportLidar": true
+    },
+    "iPad7,1": {
+        "DeviceName": "iPad Pro 2nd Gen (12.9 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad7,2": {
+        "DeviceName": "iPad Pro 2nd Gen (12.9 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad7,3": {
+        "DeviceName": "iPad Pro 2nd Gen (10.5 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad7,4": {
+        "DeviceName": "iPad Pro 2nd Gen (10.5 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad7,5": {
+        "DeviceName": "iPad 6th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad7,6": {
+        "DeviceName": "iPad 6th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad7,11": {
+        "DeviceName": "iPad 7th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad7,12": {
+        "DeviceName": "iPad 7th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad8,1": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad8,2": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, WiFi, 1TB)",
+        "SupportLidar": false
+    },
+    "iPad8,3": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad8,4": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, WiFi+Cellular, 1TB)",
+        "SupportLidar": false
+    },
+    "iPad8,5": {
+        "DeviceName": "iPad Pro 3rd Gen (12.9 inch, WiFi)",
+        "SupportLidar": false
+    },
+    "iPad8,6": {
+        "DeviceName": "iPad Pro 3rd Gen (12.9 inch, WiFi, 1TB)",
+        "SupportLidar": false
+    },
+    "iPad8,7": {
+        "DeviceName": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad8,8": {
+        "DeviceName": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular, 1TB)",
+        "SupportLidar": false
+    },
+    "iPad8,9": {
+        "DeviceName": "iPad Pro 4th Gen (11 inch, WiFi)",
+        "SupportLidar": true
+    },
+    "iPad8,10": {
+        "DeviceName": "iPad Pro 4th Gen (11 inch, WiFi+Cellular)",
+        "SupportLidar": true
+    },
+    "iPad8,11": {
+        "DeviceName": "iPad Pro 4th Gen (12.9 inch, WiFi)",
+        "SupportLidar": true
+    },
+    "iPad8,12": {
+        "DeviceName": "iPad Pro 4th Gen (12.9 inch, WiFi+Cellular)",
+        "SupportLidar": true
+    },
+    "iPad11,1": {
+        "DeviceName": "iPad mini 5th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad11,2": {
+        "DeviceName": "iPad mini 5th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad11,3": {
+        "DeviceName": "iPad Air 3rd Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad11,4": {
+        "DeviceName": "iPad Air 3rd Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad11,6": {
+        "DeviceName": "iPad 8th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad11,7": {
+        "DeviceName": "iPad 8th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad13,1": {
+        "DeviceName": "iPad Air 4th Gen (WiFi)",
+        "SupportLidar": false
+    },
+    "iPad13,2": {
+        "DeviceName": "iPad Air 4th Gen (WiFi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad13,4": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, Wifi)",
+        "SupportLidar": false
+    },
+    "iPad13,5": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, Wifi)",
+        "SupportLidar": false
+    },
+    "iPad13,6": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, Wifi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad13,7": {
+        "DeviceName": "iPad Pro 3rd Gen (11 inch, Wifi+Cellular)",
+        "SupportLidar": false
+    },
+    "iPad13,8": {
+        "DeviceName": "iPad Pro 5th Gen (12.9 inch, Wif)",
+        "SupportLidar": true
+    },
+    "iPad13,9": {
+        "DeviceName": "iPad Pro 5th Gen (12.9 inch, Wif)",
+        "SupportLidar": true
+    },
+    "iPad13,10": {
+        "DeviceName": "iPad Pro 5th Gen (12.9 inch, Wifi+Cellular)",
+        "SupportLidar": true
+    },
+    "iPad13,11": {
+        "DeviceName": "iPad Pro 5th Gen (12.9 inch, Wifi+Cellular)",
+        "SupportLidar": true
+    },
+    "Watch1,1": {
+        "DeviceName": "Apple Watch 1st Gen 38mm case",
+        "SupportLidar": false
+    },
+    "Watch1,2": {
+        "DeviceName": "Apple Watch 1st Gen 42mm case",
+        "SupportLidar": false
+    },
+    "Watch2,6": {
+        "DeviceName": "Apple Watch Series 1 38mm case",
+        "SupportLidar": false
+    },
+    "Watch2,7": {
+        "DeviceName": "Apple Watch Series 1 42mm case",
+        "SupportLidar": false
+    },
+    "Watch2,3": {
+        "DeviceName": "Apple Watch Series 2 38mm case",
+        "SupportLidar": false
+    },
+    "Watch2,4": {
+        "DeviceName": "Apple Watch Series 2 42mm case",
+        "SupportLidar": false
+    },
+    "Watch3,1": {
+        "DeviceName": "Apple Watch Series 3 38mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch3,2": {
+        "DeviceName": "Apple Watch Series 3 42mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch3,3": {
+        "DeviceName": "Apple Watch Series 3 38mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch3,4": {
+        "DeviceName": "Apple Watch Series 3 42mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch4,1": {
+        "DeviceName": "Apple Watch Series 4 40mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch4,2": {
+        "DeviceName": "Apple Watch Series 4 44mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch4,3": {
+        "DeviceName": "Apple Watch Series 4 40mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch4,4": {
+        "DeviceName": "Apple Watch Series 4 44mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch5,1": {
+        "DeviceName": "Apple Watch Series 5 40mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch5,2": {
+        "DeviceName": "Apple Watch Series 5 44mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch5,3": {
+        "DeviceName": "Apple Watch Series 5 40mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch5,4": {
+        "DeviceName": "Apple Watch Series 5 44mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch5,9": {
+        "DeviceName": "Apple Watch SE 40mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch5,10": {
+        "DeviceName": "Apple Watch SE 44mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch5,11": {
+        "DeviceName": "Apple Watch SE 40mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch5,12": {
+        "DeviceName": "Apple Watch SE 44mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch6,1": {
+        "DeviceName": "Apple Watch Series 6 40mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch6,2": {
+        "DeviceName": "Apple Watch Series 6 44mm case (GPS)",
+        "SupportLidar": false
+    },
+    "Watch6,3": {
+        "DeviceName": "Apple Watch Series 6 40mm case (GPS+Cellular)",
+        "SupportLidar": false
+    },
+    "Watch6,4": {
+        "DeviceName": "Apple Watch Series 6 44mm case (GPS+Cellular)",
+        "SupportLidar": false
+    }
+}
